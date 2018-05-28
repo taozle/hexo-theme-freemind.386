@@ -59,8 +59,8 @@ disqus_shortname: xlzd
 
 # Analytics (change to yours)
 google_analytics:
-  enable: false
-  siteid:
+  enable: true
+  siteid: UA-65835112-1
 baidu_tongji:
   enable: true
   siteid: 70df08067fbb3792c8ee0bc6eb269fd8
