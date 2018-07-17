@@ -1,11 +1,15 @@
-Hexo-Theme-Freemind.386
+Hexo-Theme-Freemind.386(xlzd 魔改版)
 ===
 
+魔改后：
+![after-xlzd](https://user-images.githubusercontent.com/5506906/42793150-609443d0-89ab-11e8-93e0-be78672abf80.png)
+
+原版：
 ![screenshot](http://7xofqj.com1.z0.glb.clouddn.com/free386screenshot.png)
 
 Freemind.386 aims at fully taking advantages of Bootstrap.
 
-* [Demo](http://blackshow.me)
+* [Demo](https://xlzd.me)
 * [Readme in Chinese](http://www.blackshow.me/2015/11/25/hexo-theme-freemind-386-readme-cn/)
 
 ## Requirements ##
